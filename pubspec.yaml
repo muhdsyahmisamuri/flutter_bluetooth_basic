@@ -28,7 +28,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.tablemi.flutter_bluetooth_basic_updated
+        package: com.tablemi.flutter_bluetooth_basic
         pluginClass: FlutterBluetoothBasicPlugin
       ios:
         pluginClass: FlutterBluetoothBasicPlugin
